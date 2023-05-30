@@ -1,0 +1,11 @@
+-d C:\Users\TrWyFowrd\Desktop\temp\design_main_test\blink\impl\gwsynthesis\blink.vg
+-p GW2A-18C-PBGA256-8
+-pn GW2A-LV18PG256C8/I7
+-cst C:\Users\TrWyFowrd\Desktop\temp\design_main_test\blink\src\blink.cst
+-cfg C:\Users\TrWyFowrd\Desktop\temp\design_main_test\blink\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23

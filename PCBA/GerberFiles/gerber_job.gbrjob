@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-05-05T09:12:33Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "design_main"
+        },
+        "Owner": "Dongyuan Fu <fudongyuan@bupt.edu.cn>",
+        "Size": {
+            "X": 119,
+            "Y": 89
+        }
+    }
+}
